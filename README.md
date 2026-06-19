@@ -1,2 +1,2 @@
 # my-graduation-project a
-İnsanlara iklim değişkliğini nasıl önleyeceklerini öğretmek için küçük çaplı bir oyun yapabilirim. Böylece insanlar iklim değişikliği hakkında küçük bile olsa bir bilgi sahibi olur.
+Oyuncu oyunda belediye başkanı olur ve karşına türlü seçimler gelir. Mesela fabrikalara filtre takılsın mı, toplu taşıma ücretsiz olsun mu? Seçimlere göre ekran yeşillenir veya karbondioksit artarak oyun biter. Bunu yapabimek için pygame, html, css falan kullanabilirim.
